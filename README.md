@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AtharvNikam62
 - 👀 I’m interested in Cyber Security, Programming .
 - 🌱 I’m currently learning C/C++, Python.
-- 🎓 I’m student at PCCOE, FY Computer Engineering.
+- 🎓 I’m student at PCCOE, Computer Engineering.
 
 <!---
 AtharvNikam62/AtharvNikam62 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
